@@ -1,3 +1,7 @@
+# Intro
+
+Re-vents is build with React, Redux, Semantic UI css + Semantic UI React, Formic, React Router, React-DatePicker, Date-FNS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
